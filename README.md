@@ -78,6 +78,10 @@ Game and interactive software experiments from my earlier engineering background
 
 [Play Pong Portfolio](https://AE-BASOL.github.io/AE-BASOL/pong/)
 
+<p align="center">
+  <img src="assets/pong-preview.gif" width="720" alt="Pong Portfolio Preview" />
+</p>
+
 ---
 
 ## Technical Stack
