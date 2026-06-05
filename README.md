@@ -99,9 +99,6 @@ Public-safe experiments around AI agents, CLI tools, prompt systems, and automat
 | Repository Direction | Purpose |
 |---|---|
 | **CUDA-AES** | CUDA-based cryptographic benchmarking |
-| **PQC Research Notes** | Public-safe post-quantum cryptography notes |
-| **AI Engineering Lab** | AI agent, CLI, and automation workflow experiments |
-| **Cybersecurity Product Notes** | Public-safe database security and product architecture notes |
 
 ---
 
