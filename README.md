@@ -70,6 +70,16 @@ Public-safe experiments around AI agents, CLI tools, prompt systems, and automat
 
 ---
 
+### Creative Engineering
+
+Game and interactive software experiments from my earlier engineering background.
+
+`Gameplay Systems` · `Unity/C#` · `Interactive Design` · `Frontend` · `Product Thinking`
+
+[Play Pong Portfolio](https://AE-BASOL.github.io/AE-BASOL/pong/)
+
+---
+
 ## Technical Stack
 
 | Category | Tools & Technologies |
