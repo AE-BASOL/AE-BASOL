@@ -4,7 +4,7 @@
 
 **Cybersecurity Product Owner · MSc Computer Engineering · Post-Quantum Cryptography Researcher**
 
-I build security-product workflows, AI-assisted engineering systems, and applied cryptography experiments.
+Building security-product workflows, applied cryptography experiments, and AI-assisted engineering systems.
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-Product%20Owner-111827?style=for-the-badge" />
@@ -24,9 +24,9 @@ My focus is turning complex technical problems into structured, measurable, and 
 
 ---
 
-## Core Focus
+## Core Areas
 
-| Domain | Focus |
+| Area | Focus |
 |---|---|
 | Cybersecurity Product | Database security, auditability, policy workflows, technical product execution |
 | Research | Post-quantum cryptography, ML-KEM, implementation-level security, blockchain security |
@@ -41,23 +41,23 @@ My focus is turning complex technical problems into structured, measurable, and 
 
 CUDA-based AES implementation and benchmarking work focused on GPU acceleration and cryptographic performance analysis.
 
-**Keywords:** `CUDA` · `AES` · `Cryptography` · `Benchmarking` · `Performance Profiling`
+`CUDA` · `AES` · `Cryptography` · `Benchmarking` · `Performance Profiling`
 
 ---
 
-### Post-Quantum Cryptography Research
+### Post-Quantum Cryptography
 
 Research direction focused on quantum-safe cryptography, ML-KEM behavior, implementation risks, and blockchain security.
 
-**Keywords:** `ML-KEM` · `PQC` · `Side Channels` · `Blockchain Security` · `Implementation Security`
+`ML-KEM` · `PQC` · `Side Channels` · `Blockchain Security` · `Implementation Security`
 
 ---
 
 ### AI-Assisted Engineering
 
-Public-safe experiments and notes around AI agents, CLI tools, prompt systems, and automation-heavy engineering workflows.
+Public-safe experiments around AI agents, CLI tools, prompt systems, and automation-heavy engineering workflows.
 
-**Keywords:** `AI Agents` · `CLI Tools` · `Prompt Engineering` · `Automation` · `Developer Workflows`
+`AI Agents` · `CLI Tools` · `Prompt Engineering` · `Automation` · `Developer Workflows`
 
 ---
 
@@ -82,17 +82,6 @@ Public-safe experiments and notes around AI agents, CLI tools, prompt systems, a
 - Improving AI-assisted engineering systems
 - Creating public-safe technical knowledge bases
 - Turning product ambiguity into executable engineering work
-
----
-
-## Public Portfolio Roadmap
-
-| Repository | Purpose |
-|---|---|
-| `CUDA-AES` | CUDA-based cryptographic benchmarking |
-| `pqc-research-notes` | Public-safe post-quantum cryptography notes |
-| `ai-engineering-lab` | AI agent and CLI workflow experiments |
-| `cybersecurity-product-notes` | Public-safe security product architecture notes |
 
 ---
 
