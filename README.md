@@ -23,6 +23,14 @@ I build security-product workflows, applied cryptography experiments, and AI-ass
 
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AE-BASOL/AE-BASOL/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AE-BASOL/AE-BASOL/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AE-BASOL/AE-BASOL/output/github-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ## About
